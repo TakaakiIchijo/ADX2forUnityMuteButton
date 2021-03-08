@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#unitycollab
+.collabignore
+Packages*
+UserSettings*
+ProjectSettings*
+
+#ADX2
+Assets/Gizmos*
+Assets/Plugins*
+Assets/StreamingAssets*
+Assets/Editor*
+Assets/Scenes*
