@@ -1,0 +1,2 @@
+# ADX2forUnityMuteButton
+ADX2導入時のUnity EditorにおいてGame ViewにMute ADX2ボタンを表示する拡張
